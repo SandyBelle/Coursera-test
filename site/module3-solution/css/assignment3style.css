@@ -63,7 +63,6 @@ body {
 #menuitems {
   position: relative;
   border: 1px solid black;
-  width: 98%;  
   padding: 15px;
   font-family: Helvetica;
   background-color: gray;
